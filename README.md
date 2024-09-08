@@ -1,8 +1,8 @@
-<img src="https://github.com/muhandojeon/Modern-React-Deep-Dive/assets/26461307/3137b976-cbb0-4dc5-ba6e-466d9a5f9ce3" alt="모던 리액트 딥 다이브" align="right" width="200" />
+<img src="https://github.com/user-attachments/assets/82620c7f-0232-450a-929a-9629eefdd87c" alt="함께 자라기" align="right" width="200" />
 
-# 책 이름
+# 함께 자라기
 
-책 설명
+모두가 함께 발전하기 위한 제안
 
 <br />
 <br />
@@ -13,9 +13,11 @@
 
 ## 일정 📅
 
-|   일정    |                목차                 |
-| :-------: | :---------------------------------: |
-| 23.12.05 | 1장 리액트 개발을 위해 꼭 알아야 할 자바스크립트 |
+|   일정   |    목차    |
+| :------: | :--------: |
+| 24.09.12 | 1장 자라기 |
+| 24.09.19 |  2장 함께  |
+| 24.09.26 | 3장 애자일 |
 
 ## 진행 방식 🌌
 
